@@ -1,0 +1,6 @@
+# The London Underground Map
+The original map of the London Underground system illustrated the network of stations primarily as they were positioned geographically and was essentially a concrete or ontological view of the situation.
+![[Media/LUL Map 1908.jpg]]
+This view was refined by Harry Beck in what became an iconic image of the London network and was adopted as a design classic by other transport systems. In Beck's representation he exchanged a design based upon where the stations were situated geographically to focus instead on the relationship of the stations to each other on the network, consequentially the distances between stations were fixed (irrespective of distance) and the proximity of any two stations together with any interchanges were displayed linked to their intervening stations.
+![[Media/LUL Harry Beck 1933.jpg]]
+The abstraction afforded by Beck's map also allowed a cartographic 'clean-up' fixing the tube lines as either vertical/horizontal or at the diagonal with stations equally spaced along their lines. This made the map much easier the understand and remember. The popularity and longevity of the Beck map is testament to the ease of use and utility of the (geographically wrong) map.

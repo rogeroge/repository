@@ -1,0 +1,1 @@
+> Science reveals where religion conceals. Where religion purports to explain, it actually resorts to tautology. To assert that "God did it" is no more than an admission of ignorance dressed deceitfully as an explanation...(Peter Atkins)

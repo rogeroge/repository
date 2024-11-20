@@ -1,0 +1,5 @@
+In Systems Thinking there is nothing wrong with Systems Dynamics (SD) and Causal Loop Diagrams aside from the fact it is like owning a Ferrari and driving everywhere in first gear! The early success of the technique, such as Limits to Growth hint at such limitations.
+
+Bob Williams http://www.thebrokeronline.eu/article/bucking-the-system-d5/ expresses the evolution of ST well in describing the initial success of Systems Dynamics and the realisation "By the mid 70s it was clear that the inter-relationships (the basis of SD) were not neutral concepts. The relative importance of particular inter-relationships depended on the different purposes you could ascribe to any single situation.". Like cybernetics had discovered earlier, the 'second order' or observer-led perspectives opened up new avenues of thinking and new possibilities for change.
+
+SD is the language of optimisation & efficiency and an anchor to the status quo, a second order approach expands this to the language of options & efficacy and the gateway to change.

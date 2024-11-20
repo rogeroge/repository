@@ -1,0 +1,7 @@
+For a while I have been intrigued by the schematic imagery used by McKelvey
+
+![[Media/boisot phases of complexity science.png]] 
+
+In order to conceive transitions between these aspects of Complexity Science it is necessary to understand the axis of the graphic to answer the question "what changes"
+Catastrophe Theory is recognised in thermodynamic systems as a Phase Transition or when multiple structures are equiprobable, it is the point at which there is a both thermodynamic and kinetic pathway between structurally dissimilar states. The attractor elements is when one structural element or motif is characteristic of the one state but not of the other, a specific part or part configuration becomes characteristic. Mathematically in Waddington's it is a saddle point in the Epigenetic Landscape
+Fractals are characteristic in a physical system as scale free regularities, it is the characteristic of recursion where levels occur and where a sub-set of the properties of the whole are completely reproduced in the properties of the sub-assemblies. In one way it is the reverse of the strictly additive assumptions of 'the properties of the whole equals the properties of the parts'. It is also an example of [distinction of nature, common endpoint multiple paths] that there is a consistency of the whole but a variety of the parts (at least in some respects). It implies that a degeneracy and equivalence exists along the chosen axis of 'fractility' - typically aspects such as scale etc. 
