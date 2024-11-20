@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "Test2"]
+	url = Test2
+	fetch = +refs/heads/*:refs/remotes/Test2/*
